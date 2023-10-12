@@ -78,3 +78,6 @@ Project named appropriately 1 point
 
 #### Lab 1.2 project total 20 total points
 
+
+Link to Studen Guide: [Student Guide 1.2.docx](https://github.com/Keyes-Intro-to-Programming/unit-1-2-sprites-in-the-corners/files/12880572/Student.Guide.1.2.docx)
+
